@@ -12,6 +12,7 @@ Board Game Rules Translated to Indonesian Language
 * [Claim (2017)](claim/README.md)
 * [No Thanks! (2004)](no-thanks/README.md)
 * [Onitama (2004)](onitama/README.md)
+* [For Sale (1997)](for-sale/README.md)
 
 
 ## Contributors
